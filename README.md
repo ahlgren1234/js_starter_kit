@@ -7,7 +7,7 @@ It supports live reload using BrowserSync, compiles the code using Babel, lint t
 Make a local copy of this project by running
 
 ```
-git clone https://github.com/rapidevelop/js_starter_kit.git
+git clone https://github.com/ahlgren1234/js_starter_kit.git
 ```
 
 And then navigate into the project directory
