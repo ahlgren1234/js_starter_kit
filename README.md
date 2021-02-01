@@ -35,3 +35,5 @@ Or to execute the build process, run
 ```
 npm run build
 ```
+
+Happy Coding :-)
